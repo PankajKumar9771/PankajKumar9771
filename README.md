@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]  
 
-<!--
-**PankajKumar9771/PankajKumar9771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username)
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🔭 I’m currently working on [Project Name](link)
+- 🌱 I’m currently learning **React, Vite**
+- 💬 Ask me about **MERN stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+## 🛠️ Technologies  
+- **Languages**: JavaScript, Python, Java  
+- **Frameworks**: React, Node.js  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green)](your-portfolio-url)
