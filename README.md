@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Pankaj Kumar.  
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=PankajKumar9771)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PankajKumar9771&title=Visitors)
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on Mern Stack Project.
