@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pankaj Kumar.  
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PankajKumar9771&title=Visitors)
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/PankajKumar9771/visits)
+
 
 
 ## 🚀 About Me  
