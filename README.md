@@ -17,5 +17,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajKumar&layout=compact)
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pankaj-kumar-0566a3254/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green)](https://pankaj-kumar-portfoliyo.netlify.app/)
